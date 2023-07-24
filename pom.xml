@@ -9,7 +9,7 @@ sdf
   <version>3.2.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>SortPom</name>
-  <description>A Maven plugin that sorts the pom.xml file.</description>
+  <description>A Maven plugfdssin that sorts the pom.xml file.</description>
 
   <modules>
     <module>sorter</module>
